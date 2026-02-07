@@ -4,8 +4,6 @@ modal-id: 3
 date: 2026-02-07
 img: Hiking.jpg
 alt: image-alt
-project-date: Feb 2026
-client: Start Bootstrap
-category: Web Development
+
 description: Allowing the nature to be part of me.
 ---
