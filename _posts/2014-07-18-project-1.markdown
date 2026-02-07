@@ -4,8 +4,6 @@ modal-id: 1
 date: 2026-02-07
 img: Cooking.jpg
 alt: image-alt
-project-date: Feb 2026
-client: Start Bootstrap
-category: Web Development
+
 description: Taking care of myself. 
 ---
