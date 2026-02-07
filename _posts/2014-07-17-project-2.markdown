@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Feb 2026
 client: Start Bootstrap
 category: Web Development
-description: Being with the Nature.
+description: Nurturing me and my surroundings.
 ---
