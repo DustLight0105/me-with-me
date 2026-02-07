@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2026-02-07
-img: Reading.png
+img: Reading.jpg
 alt: image-alt
 project-date: Feb 2026
 client: Start Bootstrap
