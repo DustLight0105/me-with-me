@@ -3,9 +3,7 @@ layout: default
 modal-id: 2
 date: 2026-02-07
 img: Gardening.jpg
-alt: image-alt
-project-date: Feb 2026
-client: Start Bootstrap
-category: Web Development
+
+
 description: Nurturing me and my surroundings.
 ---
