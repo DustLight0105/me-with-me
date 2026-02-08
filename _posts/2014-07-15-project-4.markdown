@@ -5,5 +5,5 @@ date: 2026-02-07
 img: Meditation.jpg
 alt: image-alt
 title: Connecting
-description: Sit.Breathe. Come home. 
+description: Sit. Breathe. Come home. 
 ---
