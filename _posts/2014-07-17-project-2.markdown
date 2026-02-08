@@ -4,6 +4,7 @@ modal-id: 2
 date: 2026-02-07
 img: Gardening.jpg
 alt: image-alt
-description: Nurturing.
+description: Growing, quietly. 
+title: Nurturing
 ---
 ---
