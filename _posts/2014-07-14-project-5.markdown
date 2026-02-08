@@ -4,8 +4,5 @@ modal-id: 5
 date: 2026-02-07
 img: Painting.jpg
 alt: image-alt
-project-date: Feb 2026
-client: Start Bootstrap
-category: Web Development
-description: Being creative.
+description: Creating
 ---
