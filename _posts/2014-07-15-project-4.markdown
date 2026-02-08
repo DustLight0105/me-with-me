@@ -4,6 +4,5 @@ modal-id: 4
 date: 2026-02-07
 img: Meditation.jpg
 alt: image-alt
-
-description: Establishing deep connection with myself.
+description: Connecting
 ---
