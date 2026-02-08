@@ -224,6 +224,8 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -235,6 +237,7 @@ section.success {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+    border-radius: 20px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
